@@ -1,6 +1,9 @@
-body {
-	background-color: gray;
+.top-navigation {
+	background-color: #fff;
 }
-div {
-	border: 1px solid chocolate;
+
+.top-navigation > .content {
+	width: 970px;
+	height: 70px;
+	margin: 0 auto;
 }
